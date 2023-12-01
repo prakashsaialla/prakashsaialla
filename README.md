@@ -1,34 +1,35 @@
-<h2 align="left">Hi👋! My name is Prakash and I'm a Final Year Student from Hyderabad</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Alla Prakash Sai
+========================================================================================================================================
+
+Artificial Intelligence Enthusiast
+----------------------------------
+
+* 🌍  I'm based in Hyderabad, India
+* 🖥️  See my portfolio at [MyPortfolio](http://prakashsaialla34.wixsite.com/alla-prakash-sai)
+* ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
+* 🚀  I'm currently working on [A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection](http://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection)
+* 🧠  I'm learning Django, Numpy
+* 🤝  I'm open to collaborating on AI Projects
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allaprakashsai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+### Skills
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5616AQHqy4UY-excKQ/profile-displaybackgroundimage-shrink_350_1400/0/1692192581846?e=2147483647&v=beta&t=QJ3Gx5PE9VToRunj9CpqlQAwJcKxNL42PF3g0jpzsLQ"  />
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+### Socials
 
-###
 
-<div align="left">
+<div align="left"> 
   <a href="https://www.instagram.com/prakash.ipynb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -43,8 +44,21 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/allaprakashsai/allaprakashsai/output/snake.svg" alt="Snake animation" />
+### Badges
 
-###
+<b>My GitHub Stats</b>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allaprakashsai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center"><a href="http://www.github.com/allaprakashsai"><img src="https://github-readme-stats.vercel.app/api?username=allaprakashsai&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="allaprakashsai's GitHub stats" /></a></div>
+
+<div align="center"><a href="http://www.github.com/allaprakashsai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allaprakashsai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
+
+
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=allaprakashsai&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
