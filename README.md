@@ -11,7 +11,6 @@ Artificial Intelligence Enthusiast
 * 🧠  I'm learning Django, Numpy
 * 🤝  I'm open to collaborating on AI Projects
 
-###
 
 
 ### Skills
@@ -26,8 +25,8 @@ Artificial Intelligence Enthusiast
 </p>
 
 
-### Socials
 
+### Socials
 
 <div align="left"> 
   <a href="https://www.instagram.com/prakash.ipynb/" target="_blank">
@@ -45,6 +44,7 @@ Artificial Intelligence Enthusiast
 </div>
 
 
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -58,6 +58,8 @@ Artificial Intelligence Enthusiast
 <div align="center"><a href="http://www.github.com/allaprakashsai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allaprakashsai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
 
+
+### Top Repos
 
 <b>Top Repositories</b>
 
