@@ -8,7 +8,7 @@ Artificial Intelligence Enthusiast
 * 🖥️  See my portfolio at [MyPortfolio](http://prakashsaialla34.wixsite.com/alla-prakash-sai)
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
 * 🚀  I'm currently working on [A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection](http://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection)
-* 🧠  I'm learning Django, Numpy
+* 🧠  I'm learning Django, R
 * 🤝  I'm open to collaborating on AI Projects
 
 
