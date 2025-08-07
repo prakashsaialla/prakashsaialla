@@ -106,4 +106,3 @@
 
 ---
 
-Would you like a downloadable `.md` file version of this?
