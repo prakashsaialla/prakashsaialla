@@ -1,30 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Alla Prakash Sai
-========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Prakash Sai Alla
 
-Artificial Intelligence Enthusiast
-----------------------------------
+## Data Science and Artificial Intelligence Enthusiast
 
-* 🌍  I'm based in Hyderabad, India
+---
+
+* 🌍  I'm based in **Boston, US**
 * 🖥️  See my portfolio at [MyPortfolio](http://prakashsaialla34.wixsite.com/alla-prakash-sai)
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
-* 🚀  I'm currently working on [A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection](http://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection)
-* 🧠  I'm learning Django, R
-* 🤝  I'm open to collaborating on AI Projects
+* 🚀  I'm currently working on **[Airbnb Demand and Availability Forecasting - Amsterdam](https://github.com/allaprakashsai/airbnb-demand-and-availability-forecasting)**
+* 🧠  I'm learning **R, Power BI**
+* 🤝  I'm open to collaborating on **AI and Data Analytics Projects**
 
-
+---
 
 ### Skills
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  <!-- Data Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" />
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="36" alt="SQL" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
+
+  <!-- AI & ML -->
+  <img src="https://img.icons8.com/ios-filled/50/9B59B6/artificial-intelligence.png" width="36" height="36" alt="AI" />
+  <img src="https://img.icons8.com/ios-filled/50/F1C40F/machine-learning.png" width="36" height="36" alt="Machine Learning" />
+
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
+
+  <!-- Web Tech -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+
+  <!-- Tools -->
+  
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  </a>
 </p>
 
 
+---
 
 ### Socials
 
@@ -35,7 +70,7 @@ Artificial Intelligence Enthusiast
   <a href="https://discord.com/il_posh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="prakashsaialla34@gmail.com" target="_blank">
+  <a href="mailto:prakashsaialla34@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alla-prakash-sai/" target="_blank">
@@ -43,7 +78,7 @@ Artificial Intelligence Enthusiast
   </a>
 </div>
 
-
+---
 
 ### Badges
 
@@ -57,10 +92,18 @@ Artificial Intelligence Enthusiast
 
 <div align="center"><a href="http://www.github.com/allaprakashsai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allaprakashsai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
-
+---
 
 ### Top Repos
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=allaprakashsai&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/allaprakashsai/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" align="center">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=allaprakashsai&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+---
+
+Would you like a downloadable `.md` file version of this?
