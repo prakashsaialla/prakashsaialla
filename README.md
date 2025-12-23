@@ -5,7 +5,7 @@
 ---
 
 * 🌍  I'm based in **Boston, US**
-* 🖥️  See my portfolio at [MyPortfolio]([https://prakashsaialla.github.io/Portfolio/index.html])
+* 🖥️  See my portfolio at [MyPortfolio]([https://prakashsaialla.github.io/Portfolio/index.html](https://prakashsaialla.github.io/Portfolio/index.html))
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
 * 🚀  I'm currently working on **[Dating-App-User-Behavior-Dashboard]([https://github.com/allaprakashsai/airbnb-demand-and-availability-forecasting](https://github.com/prakashsaialla/Dating-App-User-Behavior-Dashboard))**
 * 🧠  I'm learning **R, Power BI**
