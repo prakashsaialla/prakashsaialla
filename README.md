@@ -1,123 +1,115 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Prakash Sai Alla
 
-## 🎯 Business Analytics | Data Science | BI Developer
+## Data Science and Artificial Intelligence Enthusiast
 
 ---
 
-🎓 MS Business Analytics @ UMass Amherst (GPA: 4.0)  
-📍 Boston, MA  
-📊 Turning data into business decisions with measurable impact  
+* 🌍  I'm based in **Boston, US**
+* 🖥️  See my portfolio at [MyPortfolio](https://prakashsaialla.github.io/Portfolio/index.html)
+* ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
+* 🚀   I'm currently working on [Dating-App-User-Behavior-Dashboard](https://github.com/prakashsaialla/Dating-App-User-Behavior-Dashboard)
+* 🧠  I'm learning **R, Power BI**
+* 🤝  I'm open to collaborating on **Data Analytics and AI Projects**
 
 ---
 
-## 🚀 About Me
+### Skills
 
-I’m a Business Analytics graduate student specializing in **data analysis, predictive modeling, and business intelligence**.
+<p align="left">
+  <!-- Data Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" />
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="36" alt="SQL" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
 
-✔️ Built ML models with **84% accuracy**  
-✔️ Reduced analyst effort by **20% via ETL automation**  
-✔️ Generated insights from **50,000+ records**  
-✔️ Delivered **stakeholder-ready dashboards & reports**
+  <!-- AI & ML -->
+  <img src="https://img.icons8.com/ios-filled/50/9B59B6/artificial-intelligence.png" width="36" height="36" alt="AI" />
+  <img src="https://img.icons8.com/ios-filled/50/F1C40F/machine-learning.png" width="36" height="36" alt="Machine Learning" />
 
-I focus on solving real business problems using **data, not just models.**
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
 
----
+  <!-- Web Tech -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
 
-## 💼 Experience
+  <!-- Tools -->
+  
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  </a>
+</p>
 
-### 🧠 Machine Learning & Data Science Intern — PHN Technologies
-📅 Apr 2023 – Jul 2023  
-
-- Improved reporting reliability by **15%** by auditing structured & unstructured datasets  
-- Built automated ETL pipelines → reduced preprocessing time by **20%**  
-- Developed **3 end-to-end ML models** (House Price, Iris, Resume Parser)  
-- Built pricing model outperforming baseline by **12%**  
-- Presented insights to stakeholders → enabled data-driven decisions  
-
----
-
-## 📊 Featured Projects
-
-### 🏥 Health Insurance Premium Prediction
-- Built regression model (**R² = 0.84**) using Python & SQL  
-- Identified **Age & BMI as key drivers**  
-- Delivered **risk segmentation insights for pricing optimization**
-
----
-
-### 🏡 Airbnb Demand Forecasting
-- Analyzed **50,000+ listings**  
-- Built time-series models for **seasonal demand & pricing trends**  
-- Provided **revenue optimization strategies**
-
----
-
-### 📍 Optimal Places to Live Dashboard
-- Created KPI model across **50 U.S. states**  
-- Identified top states with **30% higher scores than median**  
-- Built interactive Excel dashboard for decision-making  
-
----
-
-## 🛠️ Skills
-
-### 💻 Technical
-- Python, SQL, R  
-- Excel (Advanced), Power BI, Tableau  
-- Git  
-
-### 📊 Analytics
-- Data Visualization  
-- Predictive Modeling  
-- Statistical Analysis  
-- Machine Learning  
-
-### 📈 Business Intelligence
-- Dashboard Development  
-- KPI Design  
-- Data Storytelling  
-- Executive Reporting  
-
-### ⚙️ Data Engineering
-- ETL Pipelines  
-- Data Cleaning & Transformation  
-- Data Warehousing Concepts  
 
 ---
 
-## 🌐 Portfolio & Links
+### Socials
 
-🌍 Portfolio: https://prakashsaialla.github.io/Portfolio/index.html  
-💼 LinkedIn: https://www.linkedin.com/in/alla-prakash-sai/  
-📧 Email: prakashsaialla34@gmail.com  
-
----
-
-## 📌 Current Focus
-
-- Building **end-to-end analytics projects**
-- Improving **Power BI & Tableau expertise**
-- Exploring **real-world business problem solving with data**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashsaialla&layout=compact&theme=dracula&hide_border=true" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&theme=dracula&hide_border=true" />
+<div align="left"> 
+  <a href="https://www.instagram.com/prakash.ipynb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/il_posh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:prakashsaialla34@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alla-prakash-sai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+### Badges
 
-I'm open to:
-- Data Analytics projects  
-- Business Intelligence dashboards  
-- Machine Learning applications  
+<b>My GitHub Stats</b>
 
-👉 If it involves **data + impact**, I'm interested.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashsaialla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/prakashsaialla">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="prakashsaialla's GitHub stats" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/prakashsaialla">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsaialla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
+  </a>
+</div>
+
+---
+
+### Top Repos
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+  <a href="https://github.com/prakashsaialla/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" align="center">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashsaialla&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+---
