@@ -1,15 +1,48 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Prakash Sai Alla
 
-## Data Science and Artificial Intelligence Enthusiast
+## Business Analytics & Data Analytics Graduate Student
 
 ---
 
 * 🌍  I'm based in **Boston, US**
 * 🖥️  See my portfolio at [MyPortfolio](https://prakashsaialla.github.io/Portfolio/index.html)
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
-* 🚀   I'm currently working on [Dating-App-User-Behavior-Dashboard](https://github.com/prakashsaialla/Dating-App-User-Behavior-Dashboard)
-* 🧠  I'm learning **R, Power BI**
-* 🤝  I'm open to collaborating on **Data Analytics and AI Projects**
+* 🚀  Built ML models with 84% accuracy and automated ETL pipelines reducing analyst time by 20%
+* 📊  Experienced in analyzing 50,000+ records to generate business insights
+* 🧠  Currently strengthening skills in **R, Power BI, Tableau**
+* 🤝  Open to collaborating on **Data Analytics, BI, and ML projects**
+
+---
+
+### 💼 Experience
+
+**Machine Learning & Data Science Intern — PHN Technologies**  
+*Apr 2023 – Jul 2023*
+
+- Improved reporting reliability by **15%** by auditing structured & unstructured datasets  
+- Built automated ETL pipelines reducing preprocessing time by **20%**  
+- Developed **3 end-to-end ML models** (House Price, Iris, Resume Parser)  
+- Built predictive pricing model outperforming baseline by **12%**  
+- Presented insights to stakeholders enabling data-driven decisions  
+
+---
+
+### 📊 Projects
+
+**Health Insurance Premium Prediction**  
+- Built regression model (**R² = 0.84**) using Python & SQL  
+- Identified key drivers: Age & BMI  
+- Delivered risk-based pricing insights  
+
+**Airbnb Demand Forecasting**  
+- Analyzed **50,000+ listings**  
+- Built time-series models for demand & pricing trends  
+- Generated revenue optimization insights  
+
+**Optimal Places to Live Dashboard**  
+- Designed KPI model across **50 U.S. states**  
+- Identified top states with **30% higher scores than median**  
+- Built interactive Excel dashboard  
 
 ---
 
@@ -58,6 +91,17 @@
   </a>
 </p>
 
+**Core Skills:**  
+Python, SQL, R, Power BI, Tableau, Excel  
+
+**Analytics:**  
+Data Visualization, Predictive Modeling, Statistical Analysis  
+
+**Business Intelligence:**  
+Dashboarding, KPI Design, Data Storytelling  
+
+**Data Engineering:**  
+ETL Pipelines, Data Cleaning, Data Transformation  
 
 ---
 
