@@ -27,24 +27,6 @@
 
 ---
 
-### 📊 Projects
-
-**Health Insurance Premium Prediction**  
-- Built regression model (**R² = 0.84**) using Python & SQL  
-- Identified key drivers: Age & BMI  
-- Delivered risk-based pricing insights  
-
-**Airbnb Demand Forecasting**  
-- Analyzed **50,000+ listings**  
-- Built time-series models for demand & pricing trends  
-- Generated revenue optimization insights  
-
-**Optimal Places to Live Dashboard**  
-- Designed KPI model across **50 U.S. states**  
-- Identified top states with **30% higher scores than median**  
-- Built interactive Excel dashboard  
-
----
 
 ### Skills
 
@@ -90,18 +72,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   </a>
 </p>
-
-**Core Skills:**  
-Python, SQL, R, Power BI, Tableau, Excel  
-
-**Analytics:**  
-Data Visualization, Predictive Modeling, Statistical Analysis  
-
-**Business Intelligence:**  
-Dashboarding, KPI Design, Data Storytelling  
-
-**Data Engineering:**  
-ETL Pipelines, Data Cleaning, Data Transformation  
+ 
 
 ---
 
@@ -129,13 +100,11 @@ ETL Pipelines, Data Cleaning, Data Transformation
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashsaialla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/prakashsaialla">
-    <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="prakashsaialla's GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact" />
 </div>
 
 <div align="center">
@@ -150,10 +119,8 @@ ETL Pipelines, Data Cleaning, Data Transformation
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-  <a href="https://github.com/prakashsaialla/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" align="center">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashsaialla&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+<a href="https://github.com/prakashsaialla/A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashsaialla&repo=A-Semi-Supervised-Machine-Learning-Approach-for-DDoS-Detection" />
+</a>
 
 ---
