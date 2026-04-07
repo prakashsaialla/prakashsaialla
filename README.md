@@ -9,8 +9,8 @@
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
 * 🚀  Built ML models with 84% accuracy and automated ETL pipelines reducing analyst time by 20%
 * 📊  Experienced in analyzing 50,000+ records to generate business insights
-* 🧠  Currently strengthening skills in **R, Power BI, Tableau**
-* 🤝  Open to collaborating on **Data Analytics, BI, and ML projects**
+* 🧠  Currently strengthening skills in **R and Power BI**
+* 🤝  Open to collaborating on **Data Analytics, BI and ML projects**
 
 ---
 
