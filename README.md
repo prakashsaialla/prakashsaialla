@@ -100,11 +100,11 @@
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&v=1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact&v=1" />
 </div>
 
 <div align="center">
