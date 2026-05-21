@@ -16,12 +16,12 @@
 
 ### 💼 Experience
 
-**Business Analyst - Indian Student Association, UMass Amherst**
+**Business Analyst - Indian Student Association, UMass Amherst**  
 *Sep 2024 – May 2026*
 
 - Analyzed KPIs, budgets and participation metrics across **10+ campus initiatives** supporting **500+ student participants annually**.  
-- Streamlined workflows and stakeholder coordination with **15+ cross-functional team members** across **8+ large-scale campus events**.  
-- Developed data-driven outreach strategies contributing to a **20% increase in student engagement** and improved event participation.  
+- Streamlined workflows and stakeholder coordination with **15+ cross functional team members** across **8+ large scale campus events**.  
+- Developed data driven outreach strategies contributing to a **20% increase in student engagement** and improved event participation.  
 
 **Machine Learning & Data Science Intern — PHN Technologies**  
 *Apr 2023 – Jul 2023*
