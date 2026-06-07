@@ -23,7 +23,7 @@
 - Streamlined workflows and stakeholder coordination with **15+ cross functional team members** across **8+ large scale campus events**.  
 - Developed data driven outreach strategies contributing to a **20% increase in student engagement** and improved event participation.  
 
-**Machine Learning & Data Science Intern — PHN Technologies**  
+**Machine Learning & Data Science Intern - PHN Technologies**  
 *Apr 2023 – Jul 2023*
 
 - Improved reporting reliability by **15%** by auditing structured & unstructured datasets  
