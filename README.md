@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Prakash Sai Alla
 
-## Business Analytics & Data Analytics Graduate Student
+## Business Analyst @UMass Auxiliary Enterprises
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 💼 Experience
 
-**Business Analyst - Indian Student Association, UMass Amherst**  
+**Business Analyst - UMass Auxiliary Enterprises**  
 *Sep 2024 – May 2026*
 
 - Analyzed KPIs, budgets and participation metrics across **10+ campus initiatives** supporting **500+ student participants annually**.  
