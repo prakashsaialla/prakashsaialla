@@ -5,7 +5,7 @@
 ---
 
 * 🌍  I'm based in **Boston, US**
-* 🖥️  See my portfolio at [MyPortfolio](https://prakashsaialla.github.io/Portfolio/index.html)
+* 🖥️  See my portfolio at [MyPortfolio](https://prakashsaialla.github.io/Portfolio/)
 * ✉️  You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
 * 🚀  Built ML models with 84% accuracy and automated ETL pipelines reducing analyst time by 20%
 * 📊  Experienced in analyzing 50,000+ records to generate business insights
