@@ -1,34 +1,32 @@
-# Hi 👋! My name is Prakash Sai Alla
+# Hi👋! This is Prakash Sai Alla.
 
 ## Business Analyst | Data Analytics | Business Intelligence
-
----
 
 * 🌍 I'm based in **Tempe, Arizona, US**
 * 🖥️ See my portfolio at [My Portfolio](https://prakashsaialla.github.io/Portfolio/)
 * ✉️ You can contact me at [prakashsaialla34@gmail.com](mailto:prakashsaialla34@gmail.com)
 * 📊 Business Analyst focused on **Data Analytics, Business Intelligence and Predictive Analytics**
 * 🚀 Experienced in analyzing **50,000+ records**, developing KPI dashboards and automating reporting workflows
-* 🧠 Currently strengthening my skills in **R, Snowflake and advanced analytics**
+* 🧠 Currently strengthening my skills in **Snowflake**
 * 🤝 Open to collaborating on **Data Analytics, BI and Machine Learning projects**
 
 ---
 
 ## 💼 Experience
 
-### Business Analyst — Holiday Channel
-*Jul 2026 – Present · Remote, US*
+### Business Analyst - Holiday Channel
+*Jul 2026 - Present · Remote, US*
 
 - Developing **Power BI dashboards** for management by consolidating vendor, marketplace, sales, inventory and performance data into actionable KPI reporting.
-- Automated weekly social media analytics across **8 platforms and 7 accounts** using Python APIs, reducing manual reporting effort by **83.3%**.
-- Analyzing follower growth, reach and engagement trends through automated API pipelines and management-ready Power BI dashboards.
+- Automated weekly social media analytics across **8 platforms and 34 accounts** using Python APIs, reducing manual reporting by **83.3%**.
+- Analyzing follower growth, reach and engagement trends through automated API pipelines and management ready Power BI dashboards.
 
-### Data Analyst — UMass Auxiliary Enterprises
-*Sep 2024 – May 2026 · Amherst, MA*
+### Data Analyst - UMass Auxiliary Enterprises
+*Sep 2024 - May 2026 · Amherst, MA*
 
-- Analyzed **financial transactions, sales, inventory and customer purchasing data** to identify purchasing patterns and support operational decisions.
+- Analyzed **financial transactions, sales, inventory and customer purchasing data** to identify purchasing patterns and support decisions.
 - Developed **Power BI and Excel reports** to monitor sales and financial KPIs and translate stakeholder requirements into actionable insights.
-- Evaluated customer purchasing behavior using **SQL, Python and data visualization**, delivering recommendations to improve product availability and business performance.
+- Evaluated customer purchasing behavior using **SQL, Python and Data Visualization**, delivering recommendations to improve product availability and business performance.
 
 ---
 
@@ -123,9 +121,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&count_private=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -134,7 +132,7 @@
 <div align="center">
 
 <a href="https://github.com/prakashsaialla">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsaialla&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsaialla&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
