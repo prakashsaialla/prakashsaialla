@@ -1,4 +1,4 @@
-# Hi👋! This is Prakash Sai Alla.
+# Hi! This is Prakash Sai Alla👋
 
 ## Business Analyst | Data Analytics | Business Intelligence
 
