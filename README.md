@@ -2,7 +2,7 @@
 
 ## Business Analyst | Data Analyst | Business Intelligence
 
-- 📍 I'm based in **Tempe, AZ**
+- 📍 Based in **Tempe, AZ**
 - 🎓 M.S. in **Business Analytics — University of Massachusetts Amherst**
 - 💼 Business Analyst at **Holiday Channel**
 - 📊 Experienced in **SQL, Python, Power BI, Excel, Tableau and Microsoft Fabric**
@@ -34,32 +34,58 @@
 
 ## 🛠️ Skills
 
+### 💻 Programming & Data
+
 <p align="left">
 
-<!-- Programming & Data -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="SQL" title="SQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" title="R" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>
+<b>Python</b>&nbsp;&nbsp;
 
-<!-- BI & Analytics -->
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel" title="Excel" />
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI" title="Power BI" />
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40" alt="Tableau" title="Tableau" />
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+<b>SQL</b>&nbsp;&nbsp;
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+<a href="#"><img src="https://skillicons.dev/icons?i=r" width="45"/></a>
+<b>R</b>&nbsp;&nbsp;
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/></a>
+<b>Pandas</b>&nbsp;&nbsp;
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/></a>
+<b>NumPy</b>&nbsp;&nbsp;
+
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/></a>
+<b>Scikit-learn</b>
 
 </p>
 
-**Analytics:** Data Analysis · Data Visualization · Predictive Analytics · Statistical Analysis · Exploratory Data Analysis · KPI Reporting
+### 📊 Business Intelligence & Visualization
 
-**Data Management:** Data Modeling · ETL · Data Cleaning · Data Transformation · Data Validation · Data Warehousing · Snowflake
+<p align="left">
 
-**Microsoft & BI:** Microsoft Fabric · DAX · Power Query · Tableau · Power BI · Excel
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45"/>
+<b>Excel</b>&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+<b>Power BI</b>&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
+<b>Tableau</b>&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<b>GitHub</b>&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<b>Git</b>
+
+</p>
+
+### 🗄️ Data & Analytics
+
+**Data Analysis** · **Data Visualization** · **Predictive Analytics** · **Statistical Analysis** · **EDA** · **KPI Reporting** · **Data Modeling** · **ETL** · **Data Cleaning** · **Data Warehousing** · **Snowflake**
+
+### ☁️ Microsoft & Tools
+
+**Microsoft Fabric** · **DAX** · **Power Query** · **OneLake** · **Streamlit** · **Azure AI Foundry** · **Azure OpenAI**
 
 ---
 
@@ -124,22 +150,25 @@ Analyzed **50,000+ Amsterdam Airbnb listings** to identify seasonal demand, pric
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakashsaialla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsaialla&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+## 🔥 GitHub Streak
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prakashsaialla&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## ⭐ Featured Repository
 
-<div align="center">
-
-<a href="https://github.com/prakashsaialla/CareerPilot-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashsaialla&repo=CareerPilot-AI&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/prakashsaialla/CareerPilot-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashsaialla&repo=CareerPilot-AI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
